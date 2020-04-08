@@ -20,7 +20,7 @@
     },
     "devDependencies": {
         "ajv": "^6.5.2",
-        "axios": "^0.18.0",
+        "axios": "^0.18.1",
         "babel-eslint": "^8.2.6",
         "eslint": "^5.2.0",
         "eslint-plugin-vue": "^4.7.1",
